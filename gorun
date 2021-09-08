@@ -1,0 +1,3 @@
+#!/bin/sh
+
+reflex -r '\.go$' go run pkg/cmd/main.go --start-service
